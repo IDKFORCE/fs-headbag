@@ -5,6 +5,7 @@ Made This From A Simple Snippet This Will Only Work For qbcore framework
 Pretty Much Use The Item Close To Any Player And The Ui Will Show Up In There Screen They Will Not See Anything At All Only Hear
 
 # Where Do I Add The Item (qb-core\shared\items) Make Sure You Add This All The Way On The Bottom
+```
 ['fsheadbag'] 
 = {['name'] = 'fsheadbag',
 ['label'] = 'Empty Used Bag',
@@ -16,5 +17,7 @@ Pretty Much Use The Item Close To Any Player And The Ui Will Show Up In There Sc
 ['shouldClose'] = true,
 ['combinable'] = nil,
 ['description'] = 'Bravo Sixtyninth, Going Dark xd'},
+
+```
 
 # Hope You Guys Like It If You Guys Have Any Suggestions Let Me Know
