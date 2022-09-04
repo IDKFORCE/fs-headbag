@@ -1,6 +1,11 @@
 # fs-headbag For qbcore framework
 Made This From A Simple Snippet This Will Only Work For qbcore framework
 
+
+```My Discord```
+- [Discord](https://discord.gg/6kJ5ubDEWE)
+
+
 # How To Use
 Pretty Much Use The Item Close To Any Player And The Ui Will Show Up In There Screen They Will Not See Anything At All Only Hear
 
