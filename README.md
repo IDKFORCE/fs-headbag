@@ -3,7 +3,7 @@ Made This From A Simple Snippet This Will Only Work For qbcore framework
 
 
 ```My Discord```
-- [Discord](https://discord.gg/6kJ5ubDEWE)
+- [Discord](https://discord.gg/UFng7DWnWP)
 
 
 # How To Use
